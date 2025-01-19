@@ -9,4 +9,9 @@ export default [
     to: { name: 'second-page' },
     icon: { icon: 'tabler-file' },
   },
+  {
+    title: '最新消息',
+    to: { name: 'news' },
+    icon: { icon: 'tabler-file' },
+  },
 ]
